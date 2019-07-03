@@ -16,3 +16,20 @@ body {
   background-color: #99ebff;
 
 }
+
+.one-cupcake {
+  display: grid;
+  grid-template-columns: auto;
+  padding: 10px
+}
+
+.one-cupcake .grid-items {
+  text-align: center;
+}
+
+p.best {
+  font-style: oblique;
+  color: #000080;
+  font-size: 25px;
+  font-weight: bold;
+}
