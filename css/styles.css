@@ -14,7 +14,7 @@ img {
 
 body {
   background-color: #99ebff;
-
+  text-align: center;
 }
 
 .one-cupcake {
@@ -32,4 +32,9 @@ p.best {
   color: #000080;
   font-size: 25px;
   font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
 }
