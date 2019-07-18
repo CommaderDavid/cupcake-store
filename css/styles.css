@@ -38,3 +38,13 @@ p.best {
   color: red;
   font-style: italic;
 }
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+  body {
+    background-color: #669999;
+  }
+  p {
+    color: #00334d;
+    font-size: 25px;
+  }
+}
